@@ -10,7 +10,7 @@ gem 'bcrypt',   '3.1.12'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '3.4.1'
 gem 'faker',          '1.7.3'
-gem 'carrierwave',             '1.2.2'
+gem 'carrierwave',             '1.3.2'
 gem 'mini_magick',             '4.9.4'
 gem 'will_paginate',           '3.1.7'
 gem 'bootstrap-will_paginate', '1.0.0'
